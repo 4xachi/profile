@@ -362,13 +362,13 @@ body{
     width: 80%;
 }
 .skills-content .right .js::before{
-    width: 30%;
+    width: 40%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 30%;
 }
 .skills-content .right .mysql::before{
-    width: 45%;
+    width: 30%;
 }
 
 /* creator section styling */
